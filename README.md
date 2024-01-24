@@ -1,6 +1,6 @@
-### Hi there 👋, My name am MD Udzzal
+# Hi there 👋, My name am MD Udzzal
 
-#### I am a Web Developer
+## I am a Web Developer
 
 ![I am a junior Web Developer](https://github.com/udzzal/udzzal/blob/main/banner%20(2).png?raw=true)
 
