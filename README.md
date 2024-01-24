@@ -4,6 +4,8 @@
 
 ![I am a junior Web Developer](https://github.com/udzzal/udzzal/blob/main/banner%20(2).png?raw=true)
 
+Skills: Python || Django|| My sql || MongoDB || HTML || CSS || JS |
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
