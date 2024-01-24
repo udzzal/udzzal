@@ -11,8 +11,8 @@ Skills: Python || Django|| My sql || MongoDB || HTML || CSS || JS |
 # My Vision
 
 - 🔭 I’m Web Developer
-- 👯 I’ love to learn new technology and skills
-- 🤔 My dream is to be a qualitative web devloper
+- 👯 Commitment to continuous improvement and learning, with a visible progression of skills and knowledge over time
+- 🤔 Seeking challenging opportunities to enhance skills and grow as a professional in the dynamic field of software development
 - 🌱 I’m currently learning Django-Rest Framework
 - 💬 Talk to me about Python,Django,Sql,Html,Css etc
 - 📫 Reach me at udzzalahamed@gmail.com
