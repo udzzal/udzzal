@@ -1,4 +1,8 @@
+### Hi there 👋, My name am MD Udzzal
 
+#### I am a Web Developer
+
+![I am a junior Web Developer](banner (2).png)
 
 
 ## 🌐 Socials:
