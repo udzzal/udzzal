@@ -6,6 +6,18 @@
 
 Skills: Python || Django|| My sql || MongoDB || HTML || CSS || JS |
 
+<br/>
+
+# My Vision
+
+- 🔭 I’m Web Developer
+- 👯 I’ love to learn new technology and skills
+- 🤔 My dream is to be a qualitative web devloper
+- 🌱 I’m currently learning Django-Rest Framework
+- 💬 Talk to me about Python,Django,Sql,Html,Css etc
+- 📫 Reach me at udzzalahamed@gmail.com
+
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
