@@ -2,7 +2,7 @@
 
 #### I am a Web Developer
 
-![I am a junior Web Developer](banner (2).png)
+![I am a junior Web Developer](https://github.com/udzzal/udzzal/blob/main/banner%20(2).png?raw=true)
 
 
 ## 🌐 Socials:
