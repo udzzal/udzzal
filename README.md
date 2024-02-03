@@ -1,4 +1,4 @@
-# Hi there 👋, My name am MD Udzzal
+# Hi there 👋, I am MD Udzzal
 
 ## I am a Web Developer
 
